@@ -4,12 +4,11 @@ Product-Oriented Professional (Project/Product Management)
 
 [LinkedIn](www.linkedin.com/in/ageorgievski) | Berlin, Germany
 
-===
+---
 
 I build large-scale systems, elegant APIs, and integrate components into a well-designed product that brings value to teams and customers. I am an experienced problem solver who proposes and discusses with an open mind to find the best solution. Having held multiple positions in software engineering with partial or full responsibilities in the product and project management realm, I bring valuable experience in collaborating with stakeholders, investors and clients. I promote efficient processes and practices in teams who pursue exciting objectives. My goal is to continue to improve my expertise and skillset, with emphasis on product ownership and design of scalable, fault-tolerant, modular pipelines.
 
 ## Professional Experience
----
 
 **Software Engineer** at TomTom (2021 - Current, Berlin, Germany)
 
@@ -41,7 +40,6 @@ I build large-scale systems, elegant APIs, and integrate components into a well-
 - Coached Logic Design, Object-oriented programming and compilers
 
 ## Skills and Know-How
----
 
 **Engineering:** C++17/20, Python 3, Java, git, Shell, Cmake, TensorFlow 2, Microsoft Azure, Serverless computing, Deep learning, ROS, Software integration, System design, Prototyping, Feedback loop design
 
@@ -53,7 +51,6 @@ Soft Skills: Leadership, Teamwork, Communication, Patience, Analytical Thinking,
 **Other:** Driving licence for passenger vehicles (Cat. B)
 
 ## Education
----
 
 **Nanodegree in Self-Driving Car Engineering** at Udacity (2017 - 2018)
 
