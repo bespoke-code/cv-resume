@@ -1,6 +1,6 @@
 # Andrej Georgievski
-Software Engineer (Data, Deep Learning and Cloud) and 
-Product-Oriented Professional (Project/Product Management)
+**Software Engineer** (Data, Deep Learning and Cloud) and 
+**Product-Oriented Professional** (Project/Product Management)
 
 [LinkedIn](www.linkedin.com/in/ageorgievski) | Berlin, Germany
 
@@ -10,34 +10,34 @@ I build large-scale systems, elegant APIs, and integrate components into a well-
 
 ## Professional Experience
 
-**Software Engineer** at TomTom (2021 - Current, Berlin, Germany)
+### **Software Engineer** at TomTom (2021 - Current, Berlin, Germany)
 
-- Optimized and integrated deep learning models on mobile devices and microservices (serverless using Azure Functions) to enable data sourcing
-- Design API and data processing pipelines to verify map changes
-- Facilitate agile project retrospectives, workflow and process improvement
-- Own and manage a Microsoft Azure subscription and GitHub repositories
+- Improved data extraction pipelines’ performance up to 60x by introducing deep learning-based modules on mobile devices and microservices (serverless using Azure Functions) replacing existing solutions. 
+ - Designed streamlined APIs, resulting in reusable, user-friendly modules that developers introduced to 3 different partner data ingests.
+ - Facilitated agile project retrospectives, fostering an open team culture. Over time, this resulted in dramatic workflow and process improvements. Team members appreciated the strong information flow.
+ - Managed a Microsoft Azure subscription and GitHub repositories, ensuring good development practices and cross-tool integration for efficient progress tracking.
 
-**Software Engineer** at TomTom (January 2020 - 2021, Berlin, Germany)
+### **Software Engineer** at TomTom (January 2020 - 2021, Berlin, Germany)
 
-- Prototyped deep learning models for ADAS systems
-- Designed a V2C (Vehicle to cloud) system around a sensor set
-- Integrated and overhauled Robot Operating System (ROS) modules
+ - Designed a V2C (Vehicle to cloud) system around a sensor set which enabled real-time stream-based processing of large amounts of heterogeneous data. The system was integrated on a demonstration vehicle validating current and next-gen distributed mapping concepts.
+ - Integrated and overhauled Robot Operating System (ROS) modules, increasing system robustness. 
+ - Ensured fault-tolerant operation by designing cost-effective simulated tests with real driving data.
 
-**Software Engineer** at Vision Dynamix (February 2017 - April 2019, Skopje, N. Macedonia)
+### **Software Engineer** at Vision Dynamix (February 2017 - April 2019, Skopje, N. Macedonia)
 
-- Planned sprints with partners
-- Showcased the product and did investor pitches, resulting with  the first investment in the company
-- Improved algorithms for aerial mapping
-- Automated configuration/setup for Nvidia Jetson boards
+ - Planned sprints with partners, accounting for budget and time constraints while delivering features
+ - Showcased the product and did investor pitches, resulting with the first foreign investment in the start-up
+ - Improved algorithms for aerial dense 3D reconstruction. Cut development time dramatically by introducing open-source components as a base for the proprietary software layers.
+ - Significantly reduced configuration/setup time for Nvidia Jetson boards by automating the processes.
 
-**Software Engineer Intern** at Geocom Informatik AG (July 2016 - January 2017, Burgdorf, Bern, Switzerland)
+### **Software Engineer Intern** at Geocom Informatik AG (July 2016 - January 2017, Burgdorf, Bern, Switzerland)
 
-- Compared GUI testing tools, developed a geodatabase replication tool
+ - Developed a geodatabase replication tool which prevented overwrites in suites of automated tests.
 
-**Teaching Assistant** at Faculty of Electrical Engineering and IT (2014 - 2016 and 2018, Skopje, N. Macedonia)
+### Teaching Assistant at Faculty of Electrical Engineering and IT (2014 - 2016 and 2018, Skopje, N. Macedonia)
 
-- Held classes and lab exercises for groups of 10-20 students
-- Coached Logic Design, Object-oriented programming and compilers
+ - Held classes and lab exercises for groups of 10-20 students
+ - Coached Logic Design, Object-oriented programming and compilers
 
 ## Skills and Know-How
 
