@@ -6,7 +6,7 @@
 
 ---
 
-I build large-scale systems, elegant APIs, and integrate components into a well-designed product that brings value to teams and customers. I am an experienced problem solver who proposes and discusses with an open mind to find the best solution. Having held multiple positions in software engineering with partial or full responsibilities in the product and project management realm, I bring valuable experience in collaborating with stakeholders, investors and clients. I promote efficient processes and practices in teams who pursue exciting objectives. My goal is to continue to improve my expertise and skillset, with emphasis on product ownership and design of scalable, fault-tolerant, modular pipelines.
+I excel at building scalable, fault-tolerant software systems, facilitating well-designed products that deliver value to customers. I rollout (and advocate for) efficient processes and practices in product teams.
 
 ## Professional Experience
 
@@ -34,7 +34,7 @@ I build large-scale systems, elegant APIs, and integrate components into a well-
 
  - Developed a geodatabase replication tool which prevented overwrites in suites of automated tests.
 
-### Teaching Assistant at Faculty of Electrical Engineering and IT (2014 - 2016 and 2018, Skopje, N. Macedonia)
+### **Teaching Assistant** at Faculty of Electrical Engineering and IT (2014 - 2016 and 2018, Skopje, N. Macedonia)
 
  - Held classes and lab exercises for groups of 10-20 students
  - Coached Logic Design, Object-oriented programming and compilers
